@@ -6,10 +6,15 @@ Passionate about web development and software engineering, I'm on a journey to b
 - Python
 - HTML
 - CSS
+- NextJS
+- NodeJS
+- TypeScript
+- JavaScript
 
 ### 🌐 Learning
 - Web Development Bootcamp
 - Software Engineering on ALX
+- Specialization in backend
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebukings5&show_icons=true&hide=prs&count_private=true&theme=dark)
@@ -17,6 +22,7 @@ Passionate about web development and software engineering, I'm on a journey to b
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chukwuebuka-okoye-4b9425a0)
 - [Instagram](https://instagram.com/crystalintercon?igshid=MmIzYWVlNDQ5Yg==)
+- [WhatsApp](http://wa.me/2347041721669)
 - [X](https://x.com/cristofarokoye)
 
 ### 🤝 Open to Job Opportunities & Collaboration
