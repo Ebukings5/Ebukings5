@@ -39,12 +39,12 @@ Currently, I'm learning and specializing in:
 Here’s a sneak peek into my GitHub activity:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChukwuebukaOkoye&show_icons=true&theme=radical" alt="Chukwuebuka's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChukwuebukaOkoye&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ebukings5&show_icons=true&theme=radical" alt="Chukwuebuka's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ebukings5&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukwuebukaOkoye&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebukings5&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
